@@ -13,6 +13,6 @@ public class HelloController {
         return Map.of(
                 "status", "ok",
                 "service", "jira-lab",
-                "message", "Change this line on a feature branch whose name contains the Jira key.");
+                "message", "DUM-2 is the trial bug for the Jira status update.");
     }
 }
